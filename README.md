@@ -1,5 +1,3 @@
-# cgsg-projects
-Some study projects, that were created along with CGSG ( Computer Graphic Support Group in PML30 Saint-Petersburg)
 # CGSG projects
 Some study projects, that were created along with CGSG ( Computer Graphic Support Group in PML30 Saint-Petersburg)
 
@@ -14,3 +12,6 @@ Look at "TUC/TUC_tes.pdf".
 Second year project. Rendering on GPU with Ray Tracing. Realtime GPU based rendering for visualizing photorealistic three-dimensional scenes system development.
 
 Look at "TRG/TRG_poster.pdf"
+
+
+![trg_photo](https://user-images.githubusercontent.com/39986899/126084312-f64d4c0a-d431-40a9-801a-fc8daec756aa.jpg)
