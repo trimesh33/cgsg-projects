@@ -1,6 +1,3 @@
-
-# cgsg-projects
-Some study projects, that were created along with CGSG ( Computer Graphic Support Group in PML30 Saint-Petersburg)
 # CGSG projects
 Some study projects, that were created along with CGSG ( Computer Graphic Support Group in PML30 Saint-Petersburg)
 
