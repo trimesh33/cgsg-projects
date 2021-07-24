@@ -1,3 +1,5 @@
+# cgsg-projects
+Some study projects, that were created along with CGSG ( Computer Graphic Support Group in PML30 Saint-Petersburg)
 # CGSG projects
 Some study projects, that were created along with CGSG ( Computer Graphic Support Group in PML30 Saint-Petersburg)
 
@@ -15,3 +17,8 @@ Look at "TRG/TRG_poster.pdf"
 
 
 ![trg_photo](https://user-images.githubusercontent.com/39986899/126084312-f64d4c0a-d431-40a9-801a-fc8daec756aa.jpg)
+
+
+https://github.com/trimesh33/cgsg-projects/blob/main/TRG/TRG_movie.mov
+
+
